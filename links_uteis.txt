@@ -3,6 +3,7 @@ Links uteis:
 
 Gerenciador de maquina virtualizada:
 - http://docker.com/
+- https://hub.docker.com/
 
 
 framework para PHP
@@ -12,17 +13,20 @@ framework para PHP
 Banco de dados:
 - https://www.mysql.com/downloads/
 
-
-Duvidas e doc:
-- https://www.w3schools.com/tags/tag_div.ASP
-- https://tailwindcss.com/docs/installation/using-vite
-
-
-
 Publicação do site:
 - https://vercel.com/
 
 
 Compartilhamento de arquivos:
 - https://github.com
+
+Duvidas e doc:
+- https://www.w3schools.com/tags/tag_div.ASP
+- https://tailwindcss.com/docs/installation/using-vite
+- https://ui.shadcn.com/
 - https://docs.github.com/pt/migrations/importing-source-code/using-the-command-line-to-import-source-code/adding-locally-hosted-code-to-github
+
+Vídeos ajuda:
+- https://www.youtube.com/watch?v=01MR38eDXz8  -> docker
+- https://www.youtube.com/watch?v=SnOlhaJTMTA&list=PLwXQLZ3FdTVH5Tb57_-ll_r0VhNz9RrXb  -> Introdução a laravel
+- 
