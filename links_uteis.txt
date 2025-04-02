@@ -1,0 +1,27 @@
+Links uteis:
+
+
+Gerenciador de maquina virtualizada:
+- http://docker.com/
+
+
+framework para PHP
+- https://laravel.com/docs/12.x/readme
+
+
+Banco de dados:
+- https://www.mysql.com/downloads/
+
+
+Duvidas e doc:
+- https://www.w3schools.com/tags/tag_div.ASP
+- https://tailwindcss.com/docs/installation/using-vite
+
+
+
+Publicação do site:
+- https://vercel.com/
+
+
+Compartilhamento de arquivos:
+- https://github.com
